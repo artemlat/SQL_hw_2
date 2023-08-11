@@ -138,6 +138,13 @@ where created_on = '2021-07-12 00:00:00' and name like '%Andrey%';
 ```
 ![hw_2_15](https://github.com/artemlat/SQL_hw_2/blob/main/hw_2_15.png)
 
+16. Вывести пользователей которые были созданы 2021-07-12 00:00:00 и у которых в имени есть цифра 8
+
+```
+select name from students
+where created_on = '2021-07-12 00:00:00' and name like '%8%';
+```
+![hw_2_16](https://github.com/artemlat/SQL_hw_2/blob/main/hw_2_16.png)
 
 
 
