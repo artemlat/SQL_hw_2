@@ -109,7 +109,7 @@ select name from students
 where name like '%a%';
 ```
 
-![hw_2_12](https://github.com/artemlat/SQL_hw_2/blob/main/hw_2_12.png)
+![hw_2_12(1)](https://github.com/artemlat/SQL_hw_2/blob/main/hw_2_12(1).png)![hw_2_12(2)](https://github.com/artemlat/SQL_hw_2/blob/main/hw_2_12(2).png)![hw_2_12(3)](https://github.com/artemlat/SQL_hw_2/blob/main/hw_2_12(3).png)
 
 
 
