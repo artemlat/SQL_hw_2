@@ -100,7 +100,7 @@ where name like '%Anna%';
 select name from students
 where name like '%8';
 ```
-![hw_2_11](https://github.com/artemlat/SQL_hw_2/blob/main/hw_2_11).png)
+![hw_2_11](https://github.com/artemlat/SQL_hw_2/blob/main/hw_2_11.png)
 
 
 
