@@ -201,7 +201,7 @@ order by id;
 select name from students
 where id >= 137;
 ```
-![hw_2_23(1)](https://github.com/artemlat/SQL_hw_2/blob/main/hw_2_23(1).png)![hw_2_23(2)](https://github.com/artemlat/SQL_hw_2/blob/main/hw_2_23(2).png)
+![hw_2_23(1)](https://github.com/artemlat/SQL_hw_2/blob/main/hw_2_23(1).png) ![hw_2_23(2)](https://github.com/artemlat/SQL_hw_2/blob/main/hw_2_23(2).png)
 
 
 
