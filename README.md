@@ -102,6 +102,14 @@ where name like '%8';
 ```
 ![hw_2_11](https://github.com/artemlat/SQL_hw_2/blob/main/hw_2_11.png)
 
+12. Вывести пользователей где в имени в есть буква а
+
+```
+select name from students
+where name like '%a%';
+```
+
+![hw_2_12](https://github.com/artemlat/SQL_hw_2/blob/main/hw_2_12.png)
 
 
 
