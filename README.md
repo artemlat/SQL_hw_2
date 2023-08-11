@@ -44,6 +44,7 @@ select id from public.students;
 ```
 select name from students;
 ```
+*Result is like in the second task*
 
 5. Вывести только email пользователей
 
@@ -127,6 +128,15 @@ select name from students
 where created_on = '2021-07-12 00:00:00' and password = '1m313';
 ```
 ![hw_2_14](https://github.com/artemlat/SQL_hw_2/blob/main/hw_2_14.png)
+
+15. Вывести пользователей которые были созданы 2021-07-12 00:00:00 и у которых в имени
+есть слово Andrey
+
+```
+select name from students
+where created_on = '2021-07-12 00:00:00' and name like '%Andrey%';
+```
+![hw_2_15](https://github.com/artemlat/SQL_hw_2/blob/main/hw_2_15.png)
 
 
 
