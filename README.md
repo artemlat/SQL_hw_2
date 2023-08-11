@@ -220,6 +220,15 @@ where id between 180 and 190;
 
 ![hw_2_25](https://github.com/artemlat/SQL_hw_2/blob/main/hw_2_25.png)
 
+26. Вывести пользователей где password равен 12333, 1m313, 123313
+
+```
+select name from students 
+where password in ('12333', '1m313', '123313');
+```
+
+![hw_2_26](https://github.com/artemlat/SQL_hw_2/blob/main/hw_2_26.png)
+
 
 
 
