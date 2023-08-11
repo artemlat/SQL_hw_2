@@ -266,7 +266,7 @@ select count(*) from students;
 select id, name, created_on from students
 order by created_on;
 ```
-![hw_2_32(1)](https://github.com/artemlat/SQL_hw_2/blob/main/hw_2_32(1).png)![hw_2_32(2)](https://github.com/artemlat/SQL_hw_2/blob/main/hw_2_32(2).png)
+![hw_2_31(1)](https://github.com/artemlat/SQL_hw_2/blob/main/hw_2_31(1).png)![hw_2_31(2)](https://github.com/artemlat/SQL_hw_2/blob/main/hw_2_31(2).png)
 
 
 
