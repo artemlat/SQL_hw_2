@@ -146,6 +146,15 @@ where created_on = '2021-07-12 00:00:00' and name like '%8%';
 ```
 ![hw_2_16](https://github.com/artemlat/SQL_hw_2/blob/main/hw_2_16.png)
 
+17. Вывести пользователя у которых id равен 110
+
+```
+select name from students
+where id = 110;
+```
+![hw_2_17](https://github.com/artemlat/SQL_hw_2/blob/main/hw_2_17.png)
+
+
 
 
 
