@@ -30,5 +30,13 @@ select * from public.students;
 ```
 select name from students;
 ```
-![hw_2_2(1)](https://github.com/artemlat/SQL_hw_2/blob/main/hw_2_2(2).png) ![hw_2_2(3)](https://github.com/artemlat/SQL_hw_2/blob/main/hw_2_2(3).png)
+![hw_2_2(1)](https://github.com/artemlat/SQL_hw_2/blob/main/hw_2_2(2).png) ![hw_2_2(3)](https://github.com/artemlat/SQL_hw_2/blob/main/hw_2_2(3).png)   
+
+3. Вывести только Id пользователей
+
+```
+select id from public.students;
+```
+![hw_2_3(1)](https://github.com/artemlat/SQL_hw_2/blob/main/hw_2_3(1).png)
+
 
