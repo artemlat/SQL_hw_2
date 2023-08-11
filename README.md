@@ -238,6 +238,14 @@ where created_on in ('2020-10-03 00:00:00', '2021-05-19 00:00:00', '2021-03-26 0
 ```
 ![hw_2_27](https://github.com/artemlat/SQL_hw_2/blob/main/hw_2_27.png)
 
+28. Вывести минимальный id
+
+```
+select min(id) from students;
+```
+![hw_2_28](https://github.com/artemlat/SQL_hw_2/blob/main/hw_2_28.png)
+
+
 
 
 
