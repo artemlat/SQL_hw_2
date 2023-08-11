@@ -39,4 +39,18 @@ select id from public.students;
 ```
 ![hw_2_3(1)](https://github.com/artemlat/SQL_hw_2/blob/main/hw_2_3(1).png)![hw_2_3(2)](https://github.com/artemlat/SQL_hw_2/blob/main/hw_2_3(2).png)
 
+4. Вывести только имя пользователей
+
+```
+select name from students;
+```
+
+5. Вывести только email пользователей
+
+```
+select email from students;
+```
+
+![hw_2_5(1)](https://github.com/artemlat/SQL_hw_2/blob/main/hw_2_5(1).png)![hw_2_5(2)](https://github.com/artemlat/SQL_hw_2/blob/main/hw_2_5(2).png)
+
 
