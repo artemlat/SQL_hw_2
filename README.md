@@ -83,6 +83,18 @@ where created_on = '2021-03-26 00:00:00';
 ```
 ![hw_2_9](https://github.com/artemlat/SQL_hw_2/blob/main/hw_2_9.png)
 
+10. Вывести пользователей где в имени есть слово Анна
+
+```
+select name from students
+where name like '%Анна%';
+
+select name from students
+where name like '%Anna%';
+```
+![hw_2_10(1)](https://github.com/artemlat/SQL_hw_2/blob/main/hw_2_10(1).png)![hw_2_10(2)](https://github.com/artemlat/SQL_hw_2/blob/main/hw_2_10(2).png)
+
+
 
 
 
