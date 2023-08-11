@@ -186,6 +186,16 @@ where id < 127 or id > 188;
 ```
 ![hw_2_21(1)](https://github.com/artemlat/SQL_hw_2/blob/main/hw_2_21(1).png)![hw_2_21(2)](https://github.com/artemlat/SQL_hw_2/blob/main/hw_2_21(2).png)
 
+22. Вывести пользователя у которых id меньше либо равно 137
+
+```
+select name from students
+where id <= 137
+order by id;
+```
+![hw_2_22](https://github.com/artemlat/SQL_hw_2/blob/main/hw_2_22.png)
+
+
 
 
 
