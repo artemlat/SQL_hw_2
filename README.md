@@ -67,6 +67,15 @@ select id, name, email, created_on from students;
 ```
 ![hw_2_7(1)](https://github.com/artemlat/SQL_hw_2/blob/main/hw_2_7(1).png)![hw_2_7(2)](https://github.com/artemlat/SQL_hw_2/blob/main/hw_2_7(2).png)
 
+8. Вывести пользователей где password 12333
+
+```
+select name from students 
+where password = '12333';
+```
+![hw_2_8](https://github.com/artemlat/SQL_hw_2/blob/main/hw_2_8.png)
+
+
 
 
 
