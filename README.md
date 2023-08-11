@@ -1,6 +1,9 @@
 # SQL second homework  
 *Here I continued to work with sql requests.*  
 
+[sql_hw_2.sql](https://github.com/artemlat/SQL_hw_2/blob/main/sql_hw_2.sql) *is file with code of the first homework*
+
+
 ```CREATE TABLE public.students (
 	id serial4 NOT NULL,
 	"name" varchar(50) NOT NULL,
