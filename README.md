@@ -245,6 +245,14 @@ select min(id) from students;
 ```
 ![hw_2_28](https://github.com/artemlat/SQL_hw_2/blob/main/hw_2_28.png)
 
+29. Вывести максимальный id
+
+```
+select max(id) from students;
+```
+![hw_2_29](https://github.com/artemlat/SQL_hw_2/blob/main/hw_2_29.png)
+
+
 
 
 
