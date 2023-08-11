@@ -211,6 +211,15 @@ where id > 180 and id < 190;
 ```
 ![hw_2_24](https://github.com/artemlat/SQL_hw_2/blob/main/hw_2_24.png)
 
+25. Вывести пользователя у которых id между 180 и 190
+
+```
+select name from students 
+where id between 180 and 190;
+```
+
+![hw_2_25](https://github.com/artemlat/SQL_hw_2/blob/main/hw_2_25.png)
+
 
 
 
