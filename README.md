@@ -51,6 +51,14 @@ select name from students;
 select email from students;
 ```
 
-![hw_2_5(1)](https://github.com/artemlat/SQL_hw_2/blob/main/hw_2_5(1).png)![hw_2_5(2)](https://github.com/artemlat/SQL_hw_2/blob/main/hw_2_5(2).png)
+![hw_2_5(1)](https://github.com/artemlat/SQL_hw_2/blob/main/hw_2_5(1).png)![hw_2_5(2)](https://github.com/artemlat/SQL_hw_2/blob/main/hw_2_5(2).png)  
+
+6. Вывести имя и email пользователей
+
+```
+select name, email from students;
+```
+![hw_2_6(1)](https://github.com/artemlat/SQL_hw_2/blob/main/hw_2_6(1).png)![hw_2_6(2)](https://github.com/artemlat/SQL_hw_2/blob/main/hw_2_6(2).png)
+
 
 
