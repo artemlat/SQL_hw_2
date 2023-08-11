@@ -4,7 +4,8 @@
 [sql_hw_2.sql](https://github.com/artemlat/SQL_hw_2/blob/main/sql_hw_2.sql) *is file with code of the second homework*
 
 
-```CREATE TABLE public.students (
+```
+CREATE TABLE public.students (
 	id serial4 NOT NULL,
 	"name" varchar(50) NOT NULL,
 	email varchar(50) NOT NULL,
