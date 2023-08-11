@@ -111,7 +111,14 @@ where name like '%a%';
 
 ![hw_2_12(1)](https://github.com/artemlat/SQL_hw_2/blob/main/hw_2_12(1).png)![hw_2_12(2)](https://github.com/artemlat/SQL_hw_2/blob/main/hw_2_12(2).png)![hw_2_12(3)](https://github.com/artemlat/SQL_hw_2/blob/main/hw_2_12(3).png)
 
+13. Вывести пользователей которые были созданы 2021-07-12 00:00:00
 
+```
+select name from students 
+where created_on = '2021-07-12 00:00:00';
+```
+
+![hw_2_13](https://github.com/artemlat/SQL_hw_2/blob/main/hw_2_13.png)
 
 
 
