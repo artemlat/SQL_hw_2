@@ -259,6 +259,14 @@ select count(*) from students;
 ```
 ![hw_2_30](https://github.com/artemlat/SQL_hw_2/blob/main/hw_2_30.png)
 
+31. Вывести id пользователя, имя, дату создания пользователя. 
+Отсортировать по порядку возрастания даты добавления пользоватлеля.
+
+```
+select id, name, created_on from students
+order by created_on;
+```
+![hw_2_32(1)](https://github.com/artemlat/SQL_hw_2/blob/main/hw_2_32(1).png)![hw_2_32(2)](https://github.com/artemlat/SQL_hw_2/blob/main/hw_2_32(2).png)
 
 
 
