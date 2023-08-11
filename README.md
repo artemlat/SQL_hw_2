@@ -20,7 +20,7 @@
 select * from public.students;
 ```
 ![hw_2_1(1)](https://github.com/artemlat/SQL_hw_2/blob/main/hw_2_1(1).png)  
-![hw_2_1(2)](https://github.com/artemlat/SQL_hw_2/blob/main/hw_2_1(2).png)
+![hw_2_1(2)](https://github.com/artemlat/SQL_hw_2/blob/main/hw_2_1(222).png)
 
 2. Вывести всех студентов в таблице
 
