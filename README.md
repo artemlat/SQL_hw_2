@@ -1,7 +1,7 @@
 # SQL second homework  
 *Here I continued to work with sql requests.*  
 
-[sql_hw_2.sql](https://github.com/artemlat/SQL_hw_2/blob/main/sql_hw_2.sql) *is file with code of the first homework*
+[sql_hw_2.sql](https://github.com/artemlat/SQL_hw_2/blob/main/sql_hw_2.sql) *is file with code of the second homework*
 
 
 ```CREATE TABLE public.students (
