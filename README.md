@@ -162,6 +162,13 @@ where id = 153;
 ```
 ![hw_2_18](https://github.com/artemlat/SQL_hw_2/blob/main/hw_2_18.png)
 
+19. Вывести пользователя у которых id больше 140
+
+```
+select name from students
+where id > 140;
+```
+![hw_2_19(1)](https://github.com/artemlat/SQL_hw_2/blob/main/hw_2_19(1).png)![hw_2_19(2)](https://github.com/artemlat/SQL_hw_2/blob/main/hw_2_19(2).png)
 
 
 
