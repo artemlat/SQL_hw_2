@@ -170,6 +170,14 @@ where id > 140;
 ```
 ![hw_2_19(1)](https://github.com/artemlat/SQL_hw_2/blob/main/hw_2_19(1).png)![hw_2_19(2)](https://github.com/artemlat/SQL_hw_2/blob/main/hw_2_19(2).png)
 
+20. Вывести пользователя у которых id меньше 130
+
+```
+select name from students
+where id < 130;
+```
+![hw_2_20](https://github.com/artemlat/SQL_hw_2/blob/main/hw_2_20.png)
+
 
 
 
