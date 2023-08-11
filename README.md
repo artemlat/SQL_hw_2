@@ -252,6 +252,14 @@ select max(id) from students;
 ```
 ![hw_2_29](https://github.com/artemlat/SQL_hw_2/blob/main/hw_2_29.png)
 
+30. Вывести количество пользователей
+
+```
+select count(*) from students;
+```
+![hw_2_30](https://github.com/artemlat/SQL_hw_2/blob/main/hw_2_30.png)
+
+
 
 
 
