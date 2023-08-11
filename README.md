@@ -37,6 +37,6 @@ select name from students;
 ```
 select id from public.students;
 ```
-![hw_2_3(1)](https://github.com/artemlat/SQL_hw_2/blob/main/hw_2_3(1).png)
+![hw_2_3(1)](https://github.com/artemlat/SQL_hw_2/blob/main/hw_2_3(1).png)![hw_2_3(2)](https://github.com/artemlat/SQL_hw_2/blob/main/hw_2_3(2).png)
 
 
