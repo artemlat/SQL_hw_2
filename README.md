@@ -94,6 +94,15 @@ where name like '%Anna%';
 ```
 ![hw_2_10(1)](https://github.com/artemlat/SQL_hw_2/blob/main/hw_2_10(1).png)![hw_2_10(2)](https://github.com/artemlat/SQL_hw_2/blob/main/hw_2_10(2).png)
 
+11. Вывести пользователей где в имени в конце есть 8
+
+```
+select name from students
+where name like '%8';
+```
+![hw_2_11](https://github.com/artemlat/SQL_hw_2/blob/main/hw_2_11).png)
+
+
 
 
 
