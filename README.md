@@ -17,9 +17,7 @@ CREATE TABLE public.students (
 );
 ```
 
-*Then import data to public.students table from another database or from .csv file*  
-
-[sql_hw_1.sql](https://github.com/artemlat/SQL_hw_1_and_3/blob/main/sql_hw_1.sql) *is file with code of the first homework*  
+*Then import data to public.students table from another database or from .csv file*   
 
 1. Вывести все поля и все строки.
 
