@@ -120,6 +120,15 @@ where created_on = '2021-07-12 00:00:00';
 
 ![hw_2_13](https://github.com/artemlat/SQL_hw_2/blob/main/hw_2_13.png)
 
+14. Вывести пользователей которые были созданы 2021-07-12 00:00:00 и имеют пароль 1m313
+
+```
+select name from students
+where created_on = '2021-07-12 00:00:00' and password = '1m313';
+```
+![hw_2_14](https://github.com/artemlat/SQL_hw_2/blob/main/hw_2_14.png)
+
+
 
 
 
