@@ -3,7 +3,7 @@
 
 [sql_hw_2.sql](https://github.com/artemlat/SQL_hw_2/blob/main/sql_hw_2.sql) *is file with code of the second homework*
 
-*Create a new table with students*  
+*Create a new table with students:*  
 
 ```
 CREATE TABLE public.students (
