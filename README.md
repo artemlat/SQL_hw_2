@@ -75,6 +75,15 @@ where password = '12333';
 ```
 ![hw_2_8](https://github.com/artemlat/SQL_hw_2/blob/main/hw_2_8.png)
 
+9. Вывести пользователей которые были созданы 2021-03-26 00:00:00
+
+```
+select name from students
+where created_on = '2021-03-26 00:00:00';
+```
+![hw_2_9](https://github.com/artemlat/SQL_hw_2/blob/main/hw_2_9.png)
+
+
 
 
 
