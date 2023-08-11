@@ -58,7 +58,15 @@ select email from students;
 ```
 select name, email from students;
 ```
-![hw_2_6(1)](https://github.com/artemlat/SQL_hw_2/blob/main/hw_2_6(1).png)![hw_2_6(2)](https://github.com/artemlat/SQL_hw_2/blob/main/hw_2_6(2).png)
+![hw_2_6(1)](https://github.com/artemlat/SQL_hw_2/blob/main/hw_2_6(1).png)![hw_2_6(2)](https://github.com/artemlat/SQL_hw_2/blob/main/hw_2_6(2).png)  
+
+7. Вывести id, имя, email и дату создания пользователей
+
+```
+select id, name, email, created_on from students;
+```
+![hw_2_7(1)](https://github.com/artemlat/SQL_hw_2/blob/main/hw_2_7(1).png)![hw_2_7(2)](https://github.com/artemlat/SQL_hw_2/blob/main/hw_2_7(2).png)
+
 
 
 
