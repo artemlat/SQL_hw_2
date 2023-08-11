@@ -154,6 +154,15 @@ where id = 110;
 ```
 ![hw_2_17](https://github.com/artemlat/SQL_hw_2/blob/main/hw_2_17.png)
 
+18. Вывести пользователя у которых id равен 153
+
+```
+select name from students
+where id = 153;
+```
+![hw_2_18](https://github.com/artemlat/SQL_hw_2/blob/main/hw_2_18.png)
+
+
 
 
 
